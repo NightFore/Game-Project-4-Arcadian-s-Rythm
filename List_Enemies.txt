@@ -1,0 +1,4 @@
+Sprite_Wolf, 1140, 636, -6
+Sprite_Direwolf, 1140, 452, -8
+Sprite_Ghoul, 1140, 268, -7
+Sprite_Zombie, 1140, 84, -2
